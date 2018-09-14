@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.image__container {
+    width: 400px;
+    height: 400px;
+    margin:140px auto;
+}
